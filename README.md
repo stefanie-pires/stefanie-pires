@@ -4,7 +4,7 @@
 
 🌱 Estou aperfeiçoando meus conhecimentos em HTML, CSS e JavaScript, focando no desenvolvimento Front-end.
 
-💼 Busco colaborar em projetos desafiadores que me permitam aplicar minhas habilidades e crescer profissionalmente, enquanto contribuo para o sucesso do projeto.
+💼 Busco trabalhar em projetos desafiadores que me permitam aplicar minhas habilidades de front-end e expandir meu conhecimento profissional.
 
 📫 Você pode entrar em contato comigo por e-mail ou pelo meu LinkedIn!
 
