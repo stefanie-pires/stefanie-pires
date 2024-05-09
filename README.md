@@ -11,6 +11,7 @@
 📫 Fique a vontade pra entrar em contato comigo por e-mail ou pelo meu LinkedIn:
 
 📩 stefanie_gontijo@outlook.com
+
 🛜 https://www.linkedin.com/in/stefanie-pires-330403221
 
 🎯 Meu objetivo é estar sempre em evolução!
