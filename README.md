@@ -1,11 +1,16 @@
 👋 Olá, eu sou a @stefanie-pires
 
-👀 Meu interesse é criar interfaces de usuário intuitivas e visualmente atraentes.
+💻 Sou desenvolvedora ServiceNow, apaixonada por tecnologia!
 
-🌱 Estou aperfeiçoando meus conhecimentos em HTML, CSS e JavaScript.
+📚 Estou cursando Técnico em Desenvolvimento de Sistemas
 
-💼 Busco trabalhar em projetos desafiadores que me permitam aplicar minhas habilidades de Front-end e expandir meu conhecimento profissional.
+🌱 Aperfeiçoando meus conhecimentos em JavaScript HTML e CSS
 
-📫 Você pode entrar em contato comigo por e-mail ou pelo meu LinkedIn!
+💼 E aqui é onde coloco meus projetos pessoais e códigos que uso frequentemente
 
-Vamos criar algo incrível juntos! ✨
+📫 Fique a vontade pra entrar em contato comigo por e-mail ou pelo meu LinkedIn:
+
+📩 stefanie_gontijo@outlook.com
+🛜 https://www.linkedin.com/in/stefanie-pires-330403221
+
+🎯 Meu objetivo é estar sempre em evolução!
